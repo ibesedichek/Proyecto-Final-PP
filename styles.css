@@ -1,0 +1,26 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background: #ea97aa;
+  margin: 0;
+  padding: 250px;
+}
+h1 {
+  color: #333;
+}
+
+.foto1 img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.foto1 img {
+  width: 30%;
+  height: auto;
+}
+
+.foto1:hover img {
+  transform: scale(1.05);
+  border-color: #888;
+}
