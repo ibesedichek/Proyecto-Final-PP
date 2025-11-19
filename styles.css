@@ -9,9 +9,10 @@ h1 {
   color: #333;
 }
 
-.foto1 img {
-  max-width: 20%;
-  height: auto;
+.foto1 {
+  position: relative;
+  max-width: 10%;
+  height: 5%;
   display: block;
   opacity: 0.8; 
 }
