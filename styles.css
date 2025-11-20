@@ -3,16 +3,23 @@ body {
   text-align: center;
   background: #a43952;
   margin: 0;
-  padding: 250px;
+  padding: 30px;
 }
 h1 {
-  color: #333;
+  color: #e4dddd;
+  text-align: center;
+  
+}
+
+img {
+  max-width: 15vw;
 }
 
 .foto1 {
+  display:flex;
   position: relative;
   max-width: 10%;
   height: 5%;
-  display: block;
   opacity: 0.8; 
+  align-items: center;
 }
